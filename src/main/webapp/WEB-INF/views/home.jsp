@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	두번쨰 수정대는 거냐구!!.
+	수정테스트임니다
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
