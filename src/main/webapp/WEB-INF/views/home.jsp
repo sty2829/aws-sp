@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	내 첫 리눅스 실행하는 스프링 프로젝트
+	수정대는건가요 ?
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
