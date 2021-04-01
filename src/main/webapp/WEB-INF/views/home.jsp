@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	수정테스트임니다
+	webhoobk 연동 자동으로대나요?
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
